@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abubakar Musa
 - 👀 I’m interested in Web Development & CyberSecurity
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Ethical hacking
 - 📫 How to reach me mayarimawa@gmail.com
 
 <!---
